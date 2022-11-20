@@ -1,0 +1,8 @@
+instructions to dual boot 
+
+1. install the os in a folder 
+2. using a ped drive install the rufus tool in it.
+3. then boot the rufus tool in the particular pc.
+4. after booting turn off safe booting in the bootloader settings.
+5. then GO TO UEFI setting for changing the boot order
+6. restart the pc and the dual boot option will be displayed.
